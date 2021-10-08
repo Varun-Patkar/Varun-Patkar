@@ -13,3 +13,10 @@
 <a href="https://github.com/Varun-Patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/github1.png" width="60px" /></a>
 <a href="https://twitter.com/Varun_Patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/twitter.png" width="60px"/></a>
 <a href="https://www.linkedin.com/in/varun-patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/linkedin.png" width="60px"/></a>
+
+
+### Experience
+
+* ⚡ Chairperson of Computer Society of India (SFIT)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Varun-Patkar)
