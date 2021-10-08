@@ -10,6 +10,6 @@
 * ⚡ Skills: ML/AI, Python, C++, Java, Javascript, Reactjs, Django, Flask, Responsive Web design, Flutter.
 
 ### Connect with me on:
-<a href="https://github.com/Varun-Patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/github.png" width="60px" /></a>
+
 <a href="https://twitter.com/Varun_Patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/twitter.png" width="60px"/></a>
 <a href="https://www.linkedin.com/in/varun-patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/linkedin.png" width="60px"/></a>
