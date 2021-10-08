@@ -1,1 +1,1 @@
-# [![varun patkar header](https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/header.png)](https://github.com/Varun-Patkar)
+<a href="https://github.com/Varun-Patkar"><img src="https://raw.githubusercontent.com/Varun-Patkar/Varun-Patkar/main/header.png" width="100%"/></a>
