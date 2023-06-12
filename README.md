@@ -5,7 +5,7 @@
 
 * 🔭 I love building websites from scratch and automating games.
 * 🤔 Looking to contribute to Open Source.
-* ⚡ Currently learning DEVOPS & CLOUD and .
+* ⚡ Currently learning Solidity and Web3.
 * 📫 Any queries? reach out to me on [LinkedIn](https://www.linkedin.com/in/varun-patkar/)
 * ⚡ Skills: ML/AI, Python, C++, Java, Javascript, Reactjs, Django, Flask, Responsive Web design, Flutter.
 
